@@ -162,4 +162,4 @@ cython_debug/
 # Project files
 .cache
 .cached_credentials
-playlist_tracks.txt
+playlist_tracks*
